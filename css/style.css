@@ -1,0 +1,153 @@
+body{
+    background-color: #6D9773;
+}
+
+.heading1{
+    padding: 2px;
+}
+
+
+.photo{
+    margin: 20px 70px 30px 40px;
+    overflow: hidden;
+    width: 35%;
+    border-radius: 37px;
+}
+
+.photo img{
+    width: 100%;
+    height: auto;
+    -webkit-transition: -webkit-transform 0.5s;
+    transition: -webkit-transform 0.5s;
+    -o-transition: transform 0.5s;
+    transition: transform 0.5s;
+    transition: transform 0.5s, -webkit-transform 0.5s;
+}
+
+.photo:hover img{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+
+.photo2{
+    overflow: hidden; 
+    width: 35%; 
+    margin: 20px 70px 30px 40px;
+    border-radius: 35px;
+}
+ 
+.photo2 img{
+     width: 100%;
+     height: auto;
+     -webkit-transition: -webkit-transform 0.5s;
+     transition: -webkit-transform 0.5s;
+     -o-transition: transform 0.5s;
+     transition: transform 0.5s;
+     transition: transform 0.5s, -webkit-transform 0.5s;
+}
+ 
+ .photo2:hover img{
+     -webkit-transform: scale(1.1);
+     -ms-transform: scale(1.1);
+     transform: scale(1.1);
+}
+
+
+.photo3{ 
+    overflow: hidden;  
+    width: 40%;
+    margin: 20px 70px 30px 40px;
+    border-radius: 35px;
+}
+ 
+.photo3 img{
+     width: 100%;
+     height: auto;
+     -webkit-transition: -webkit-transform 0.5s;
+     transition: -webkit-transform 0.5s;
+     -o-transition: transform 0.5s;
+     transition: transform 0.5s;
+     transition: transform 0.5s, -webkit-transform 0.5s;
+}
+ 
+.photo3:hover img{
+     -webkit-transform: scale(1.1);
+     -ms-transform: scale(1.1);
+     transform: scale(1.1);
+}
+
+
+.photo4{
+    overflow: hidden;  
+    width: 40%;
+    margin: 20px 70px 30px 40px;
+    border-radius: 35px;
+}
+ 
+.photo4 img{
+     width: 100%;
+     height: auto;
+     -webkit-transition: -webkit-transform 0.5s;
+     transition: -webkit-transform 0.5s;
+     -o-transition: transform 0.5s;
+     transition: transform 0.5s;
+     transition: transform 0.5s, -webkit-transform 0.5s;
+}
+ 
+.photo4:hover img{
+     -webkit-transform: scale(1.1);
+     -ms-transform: scale(1.1);
+     transform: scale(1.1);
+}
+
+
+.photo5{
+    overflow: hidden;  
+    width: 40%;
+    margin: 20px 70px 30px 40px;
+    border-radius: 35px;
+}
+ 
+.photo5 img{
+     width: 100%;
+     height: auto;
+     -webkit-transition: -webkit-transform 0.5s;
+     transition: -webkit-transform 0.5s;
+     -o-transition: transform 0.5s;
+     transition: transform 0.5s;
+     transition: transform 0.5s, -webkit-transform 0.5s;
+}
+ 
+.photo5:hover img{
+     -webkit-transform: scale(1.1);
+     -ms-transform: scale(1.1);
+     transform: scale(1.1);
+}
+
+
+.photo6{
+    overflow: hidden; 
+    width: 35%; 
+    margin: 20px 70px 30px 40px;
+    border-radius: 35px;
+}
+ 
+.photo6 img{
+     width: 100%;
+     height: auto;
+     -webkit-transition: -webkit-transform 0.5s;
+     transition: -webkit-transform 0.5s;
+     -o-transition: transform 0.5s;
+     transition: transform 0.5s;
+     transition: transform 0.5s, -webkit-transform 0.5s;
+}
+ 
+.photo6:hover img{
+     -webkit-transform: scale(1.1);
+     -ms-transform: scale(1.1);
+     transform: scale(1.1);
+}
+
